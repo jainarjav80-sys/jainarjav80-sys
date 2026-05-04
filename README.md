@@ -70,10 +70,10 @@
 ## 📊 Current Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainarjav80-sys&layout=compact&theme=tokyonight" height="180"/>
   <img src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/assets/programmer.gif" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=jainarjav80-sys&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
