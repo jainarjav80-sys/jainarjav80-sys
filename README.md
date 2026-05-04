@@ -1,15 +1,9 @@
 <h1 align="center">Hey 👋, I'm Arjav Jain 🚀</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+ML+Engineer;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+🚀" />
-</p>
-
 ---
-
 <p align="center">
-⚡ Passionate Developer <br>
+⚡ Full Stack developer <br>
 🧠 Learning Machine Learning from scratch <br>
-🚀 Goal: ML Engineer / AI Developer <br>
 💻 Love building real-world projects
 </p>
 
@@ -69,4 +63,17 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jainarjav80-sys&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 📊 Current Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/assets/programmer.gif" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
