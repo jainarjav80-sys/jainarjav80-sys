@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
   <a href="https://leetcode.com/arjavvvvv/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="45"/>
+     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
