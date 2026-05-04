@@ -18,15 +18,21 @@
 
 
   
-## :mailbox: Connect with Me</br>
-<br/>
-<a href="https://linkedin.com/in/arjav-jain-9a5199328" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parasmahla80" height="30" width="40" /></a>&nbsp; 
-<a href="https://www.instagram.com/arjav_80/" target="_blank"><img align="center" src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" alt="parasmahla_1" height="30" width="40" /></a>
-<a href="https://leetcode.com/arjavvvvv/" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
-</a>
+## 📫 Connect with Me<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/arjav-jain-9a5199328" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/arjav_12/" target="_blank">
+    <img src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" height="40" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/arjavvvvv/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40"/>
+  </a>
 </p>
-</div>
 
 <br />
 <p align="center">
