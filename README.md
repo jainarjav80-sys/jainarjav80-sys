@@ -3,11 +3,7 @@
 
 <!-- Typing text -->
 
-</p>
-<div align="center">
-<br>
-⚡ Full Stack developer <br/><br/>
-🌱 Currently Exploring ML form roots <br/><br/>
+<h1 align="center">Aspiring Full Stack Developer</a></h1>
 
 <br>
 <picture>
