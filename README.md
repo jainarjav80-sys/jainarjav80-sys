@@ -3,7 +3,7 @@
 
 <!-- Typing text -->
 
-<h1 align="center">Aspiring Full Stack Developer</a></h1>
+<h1 align="center">Aspiring Full Stack Developer || Learning ML From Roots</a></h1>
 
 <br>
 <picture>
