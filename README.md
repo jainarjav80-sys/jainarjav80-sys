@@ -17,7 +17,7 @@
 
 
   
- <h1 align="center"📫 Connect with Me</a></h1>
+ <h1 align="center">📫 Connect with Me </a></h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/arjav-jain-9a5199328" target="_blank">
