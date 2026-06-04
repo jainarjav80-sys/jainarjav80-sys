@@ -1,9 +1,9 @@
 <!-- Hero text -->
-<h1 align="center">Hey 👋, I'm Arjav Jain👨‍💻</a></h1>
+<h1 align="center">Hey 👋, I'm Arjav</a></h1>
 
 <!-- Typing text -->
 
-<h1 align="center">Aspiring Full Stack Developer || Learning ML From Roots</a></h1>
+
 
 <br>
 <picture>
