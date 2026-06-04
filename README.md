@@ -1,6 +1,10 @@
 <!-- Hero text -->
-<h1 align="center">Hey 👋, I'm Arjav</a></h1>
+<h1 align="center">Hey 👋, I'm Arjav!!</a></h1>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
@@ -11,7 +15,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/jainarjav80-sys/jainarjav80-sys/output/github-snake.svg" />
 </picture>
 
-<img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
+
   
 ## 📫 Connect with Me
 
