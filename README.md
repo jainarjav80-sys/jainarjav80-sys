@@ -1,11 +1,10 @@
 <!-- Hero text -->
 <h1 align="center">Hey 👋, I'm Arjav</a></h1>
 
-<!-- Typing text -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-
-
-<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jainarjav80-sys/jainarjav80-sys/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jainarjav80-sys/jainarjav80-sys/output/github-snake.svg" />
