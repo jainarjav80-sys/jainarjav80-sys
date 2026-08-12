@@ -44,16 +44,9 @@
 
 <div align="center">
   
- ## :chart_with_upwards_trend: Current Stats
-</br>
-</div>
-<br />
 
 
-<p align="center"><img  width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=jainarjav80-sys&theme=gotham"/>&nbsp; &nbsp; 
-<img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
-</p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=jainarjav80-sys&label=Profile%20views&color=0e75b6&style=flat"
     alt="arjavjain" /></p>
