@@ -1,5 +1,15 @@
 <!-- Hero text -->
-<h1 align="center">Hey 👋, I'm Arjav!!</a></h1>
+<!-- Hero -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=Turning+ideas+into+code+%3C%2F%3E"
+    alt="Turning ideas into code"
+  />
+</p>
+
+<p align="center">
+  <b>AI/ML</b> • <b>Open Source</b> • <b>Full Stack</b>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
