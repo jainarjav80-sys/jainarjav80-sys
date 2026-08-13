@@ -3,7 +3,7 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=70&lines=Turning+ideas+into+code+%3C%2F%3E"
-    alt="Turning ideas into code"
+    alt="Making things that didn't exist yesterday"
   />
 </p>
 
