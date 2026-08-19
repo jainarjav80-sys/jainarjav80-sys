@@ -5,7 +5,7 @@
   />
 </p>
 <p align="center">
-  <b>AI/ML</b> • <b>Open Source</b> • <b>Full Stack</b>
+  <b>Backend</b> • <b>Devops</b> • <b>AI integration</b>
 </p>
 
 <p align="center">
