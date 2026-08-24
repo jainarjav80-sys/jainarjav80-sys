@@ -33,7 +33,7 @@
   <a href="https://linkedin.com/in/arjav-jain-9a5199328" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  <a href="https://www.instagram.com/arjav_12/" target="_blank">
+  <a href="https://www.instagram.com/arjavj0in/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
 </p>
