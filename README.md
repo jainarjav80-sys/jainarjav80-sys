@@ -5,7 +5,7 @@
   />
 </p>
 <p align="center">
-  <b>Backend</b> • <b>AI</b> • <b>Devops</b>
+  <b>Backend</b> • <b>AI & LLM's</b> • <b>Devops</b>
 </p>
 
 <p align="center">
